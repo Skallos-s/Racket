@@ -354,4 +354,4 @@
    (if (string=? "m" k) (remainder (+ (sc-md si) 1) 3) (sc-md si)) (sc-mv si)))
 
 (define st (make-sc (root 0) -1 -1 80 0'()))
-(big-bang st (to-draw draw) (on-mouse mouse) (on-key key))
+(big-bang st (to-draw draw) (on-mouse mouse) (on-key key) (name "Solution Space Graph Visualizer"))
