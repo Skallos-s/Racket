@@ -159,4 +159,4 @@
        20 d
        (game-scor gm))])))
 
-(big-bang st (on-tick tick) (on-draw draw) (on-key key))
+(big-bang st (on-tick tick) (on-draw draw) (on-key key) (name "Hyperbolic Maze"))
