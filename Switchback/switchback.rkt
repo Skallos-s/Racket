@@ -6,7 +6,7 @@
 
 (define SIZE 50)
 
-; ListOf[ListOf[integer]] ListOf[bool] bool
+; ListOf[ListOf[integer]] ListOf[bool]
 (define-struct sb (balls slide))
 (define start
   (make-sb
