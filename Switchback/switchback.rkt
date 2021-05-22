@@ -2,7 +2,6 @@
 
 (require 2htdp/image)
 (require 2htdp/universe)
-(require (only-in racket/gui/base get-display-backing-scale))
 
 (define SIZE 50)
 
