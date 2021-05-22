@@ -1,0 +1,17 @@
+The game is based off of Binary Art's Switchback.
+See <http://twistypuzzles.com/cgi-bin/puzzle.cgi?pkey=1736>
+There are 8 sliders that have 4 open spots to hold marbles.
+Each slider has two possible slide positions, and the positions of each slider alternates.
+That is, if all sliders are pushed to the left, the resulting marbles and open spaces would form a checkerboard pattern.
+To allo you to move multiple sliders at once wihtout gravity affecting you, you can apply gravity only when you want to.
+
+
+
+Instructions:
+w/s to apply gravity, either up or down.
+Mouse to click on a slider to move it to the opposite position.
+
+Goal:
+Create patterns.
+The original Switchback has a booklet of patterns to reach, so really, try to reach any pattern you fancy.
+Given the duplicity of the marbles, any pattern is (most likely) reachable. If you can think of, you can probably get there.
